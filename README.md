@@ -9,7 +9,8 @@ Queste sono le pagine moodle a cui fare riferimento per gli esercizi (ed eventua
 - [Moodle Lab Prog 1 A t1](https://informatica.i-learn.unito.it/course/view.php?id=2043)
 - [Moodle Lab Prog 1 A t2](https://informatica.i-learn.unito.it/course/view.php?id=2049)
 
-> **Nota**: Se avete dubbi o incertezze sulla soluzione di un determinato esercizio contattate direttamente il vostro docente tramite mail o messaggio su moodle.
+> **Avviso**: Se avete dubbi o incertezze sulla soluzione di un determinato esercizio contattate direttamente il vostro docente tramite mail o messaggio su moodle.
 
+> _**Nota**_: Se sono presenti errori nella stesura del codice potete farlo presente nella sezione apposita ([problemi](https://github.com/cipst/lab_prog1/issues)). Grazie per la collaborazione
 ### Crediti
 - [Stefano Cipolletta](https://github.com/cipst)
