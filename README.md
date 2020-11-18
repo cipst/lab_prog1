@@ -5,7 +5,7 @@
 
 Questi file sono stati resi pubblici per il solo scopo di aiutare chi è in difficoltà con la materia.
 
-Queste sono le pagine moodle a cui fare riferimento per gli esercizi (ed eventuali soluzioni):
+Queste sono le pagine moodle a cui fare riferimento per gli esercizi (ed eventuali soluzioni da parte dei docenti):
 - [Moodle Lab Prog 1 A t1](https://informatica.i-learn.unito.it/course/view.php?id=2043)
 - [Moodle Lab Prog 1 A t2](https://informatica.i-learn.unito.it/course/view.php?id=2049)
 
