@@ -9,7 +9,7 @@ public class MediaInput{
             somma += n;
             count++;
         }while(n!=0);
-        if(count != 0)
+        if(count != 1)
             System.out.println("La media intera dei numeri inseriti e': " + (somma/(count-1)));
         else
             System.out.println("Non hai inserito numeri --- Sequenza vuota! ");
