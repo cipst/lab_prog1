@@ -13,4 +13,4 @@ Queste sono le pagine moodle a cui fare riferimento per gli esercizi (ed eventua
 
 > _**Nota**_: Se sono presenti errori nella stesura del codice potete farlo presente nella sezione apposita ([problemi](https://github.com/cipst/lab_prog1/issues)). Grazie per la collaborazione.
 ### Crediti
-- [Stefano Cipolletta](https://github.com/cipst)
+- [Stefano](https://github.com/cipst)
