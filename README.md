@@ -1,3 +1,8 @@
+![UniTo](https://img.shields.io/badge/UniTo-Informatica-brightgreen)
+![UniTo](https://img.shields.io/badge/UniTo-Programmazione_1-brightgreen) 
+![UniTo](https://img.shields.io/badge/UniTo-Laboratorio-brightgreen) 
+![Corso](https://img.shields.io/badge/Corso-A-critical)
+
 # Soluzioni Laboratorio Programmazione 1 A
 
 ## _**Queste dispense non sono una verità assoluta!**_
