@@ -126,7 +126,7 @@ public class MetodiRicorsivi {
             String s2 = eliminaCarattere(s, index);
 
             // chiamata ricorsiva sulla stringa senza il carattere. Il carattere tolto è stato messo nel prefisso
-            permutazioniStringaRicorsivo(s2, 0, prefix + s.charAt(index));
+            permutazioniStringaRicorsivo(s2, 0, prefisso + s.charAt(index));
 
             // richiamo ricorsivamente la stringa iniziale eliminando questa volta il
             // carattere a index+1
